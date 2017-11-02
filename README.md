@@ -12,4 +12,4 @@ Just a couple of notes 11/2/17:
 
 3. Many of the loops have redundancies. Cleaning these up can be added to the to do list.
 
-4. The overall code needs to be cleaned up for readability reasons
+4. The overall code needs to be cleaned up for readability reasons.
