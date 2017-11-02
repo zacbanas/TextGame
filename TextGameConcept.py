@@ -188,7 +188,7 @@ def start():
         if 'dunkirk' in move and 'bad' and 'sucks' in move:
             print("YOU DIED")
             exit()
-
+        # Check to see if the user input contains an acceptable move
         for mov in moves:
             if mov in move:
                 c1hallway()
