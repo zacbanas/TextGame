@@ -86,7 +86,7 @@ def c1darkhole():
                         time.sleep(2)
                         print("\nWhat do you want to do?")
                         npcactive = False
-                        # TODO: insert a move check here
+                        
                         move = input('>> ').lower().replace(' ', '')
             # Do this is if the input is directed to movement
             for mov in moves:
